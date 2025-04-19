@@ -12,7 +12,7 @@
 ## ⚛️ React Demo
 - Built a functional React component using `useState` to toggle a message.
 - Passed props and demonstrated reactivity and component-based UI.
-- React App Link: [Paste your CodeSandbox link here]
+- React App Link: https://codesandbox.io/p/devbox/jovial-sea-xs3kdy?workspaceId=ws_E6qMzQwCHyUwmmBjbKkpqJ
 
 ## Group Members
 -  Rabecca Mwale 
